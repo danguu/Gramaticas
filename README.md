@@ -69,4 +69,3 @@ Repetir cambiando `g_1` y `g-1.txt` por el número de la gramática a probar.
 * Python: más rápido de implementar pero menos estricto en algunas reglas.
 * C (Flex/Bison): más fiel a las definiciones formales.
 * Los archivos `.txt` incluyen cadenas válidas e inválidas para pruebas rápidas.
-¿Quieres que te lo genere así?
